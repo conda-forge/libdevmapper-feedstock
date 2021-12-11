@@ -161,4 +161,5 @@ Feedstock Maintainers
 =====================
 
 * [@mbargull](https://github.com/mbargull/)
+* [@ngam](https://github.com/ngam/)
 
